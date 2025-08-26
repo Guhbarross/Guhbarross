@@ -20,10 +20,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/gustavo-ribeiro-de-barros-714550344" target="blank">
+<a href="https://linkedin.com/in/gustavo-ribeiro-de-barros-714550344" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="https://instagram.com/guhbarross_" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
+<a href="https://instagram.com/guhbarross_" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" alt="instagram" height="40" width="40" />
 </a>
 </p>
