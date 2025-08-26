@@ -20,7 +20,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/gustavo-ribeiro-de-barros-714550344" target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-barros-714550344/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 <a href="https://instagram.com/guhbarross_" target="_blank">
