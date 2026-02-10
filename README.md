@@ -1,9 +1,12 @@
-<h1 align="center">Hi, I'm Gustavo</h1>
+<h1 align="center">Hi, I'm Gustavo 👋</h1>
 
-<h3 align="center">Junior Python Developer | Always learning new languages | Brazilian | Fluent in English</h3>
+<h3 align="center">
+| BI & Data Analysis Enthusiast | Brazilian | Fluent in English
+</h3>
 
 <p align="center">
-  Passionate about programming and software development. Focused on improving my skills in Python and exploring new technologies.
+Passionate about programming, data and software development.  
+Focused on using <b>Python and SQL</b> to transform data into <b>clear insights for business and decision-making</b>, especially in analytics and BI contexts.
 </p>
 
 <p align="center"> 
@@ -12,13 +15,22 @@
 
 ---
 
-- 🔭 **Currently learning**: Python, Data Structures, Databases  
-- 🌱 **Interested in**: Backend Development, Cloud Computing, and New Programming Languages  
-- 📫 **How to reach me**: **gustavorbarros07@gmail.com**  
+### 🔎 What I’m currently working on
+- 🔭 **Currently learning**: Python, Data Structures, Databases, SQL for Analytics  
+- 🌱 **Interested in**: Business Intelligence, Data Analysis, Backend Development and Cloud Computing  
+- 📊 **Focus**: Data modeling, KPIs, dashboards and analytical thinking  
+- 📫 **How to reach me**: **gustavorbarros07@gmail.com**
 
 ---
 
-### Connect with me:
+### 🧰 Tools & Skills
+- SQL (business-oriented queries)
+- Data Analysis & BI concepts
+- Dashboards & metrics analysis
+
+---
+
+### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/gustavo-barros-714550344/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
