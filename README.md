@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gustavo 👋</h1>
 
 <h3 align="center">
-| BI & Data Analysis Enthusiast | Brazilian | Fluent in English
+| BI & Data Analysis Internship | Brazilian | Advanced in English
 </h3>
 
 <p align="center">
