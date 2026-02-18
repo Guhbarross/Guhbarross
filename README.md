@@ -35,7 +35,7 @@ Focused on using <b>Python and SQL</b> to transform data into <b>clear insights 
 <a href="https://www.linkedin.com/in/gustavo-barros-714550344/" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="https://instagram.com/guhbarross_" target="_blank">
+<a href="https://instagram.com/gustavorbarros_" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png" alt="instagram" height="40" width="40" />
 </a>
 </p>
